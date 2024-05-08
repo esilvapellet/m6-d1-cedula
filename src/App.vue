@@ -8,10 +8,10 @@
       <aside>
         <div>
           <span>CEDULA DE IDENTIDAD</span>
-          <img width="40" src="./assets/img/bandera.png" alt="" />
+          <img width="40" src="./assets/bandera.png" alt="" />
         </div>
 
-        <img src="./assets/img/foto.jpg" alt="" />
+        <img src="./assets/foto.jpg" alt="" />
         <p>RUN {{ run }}</p>
       </aside>
 
@@ -63,9 +63,7 @@
           <article>
             <header>FIRMA DEL TITULAR</header>
             <!-- <span>X Æ A-12</span> -->
-            <span
-              ><img src="./assets/img/firma.png" style="width: 75px"
-            /></span>
+            <span><img src="./assets/firma.png" style="width: 75px" /></span>
           </article>
         </section>
       </main>
@@ -108,7 +106,7 @@ body {
   height: 60vh;
   font-size: 10px;
   font-family: sans-serif;
-  background: url("./assets/img/background.jpeg");
+  background: url("./assets/background.jpeg");
   background-size: cover;
 }
 
